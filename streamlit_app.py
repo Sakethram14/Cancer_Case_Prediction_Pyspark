@@ -1,4 +1,4 @@
-# streamlit_app.py (Final Corrected Version)
+# streamlit_app.py (FINAL, SIMPLIFIED, AND ROBUST VERSION)
 
 import streamlit as st
 import pandas as pd
@@ -9,77 +9,42 @@ from sklearn.pipeline import Pipeline
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# --- Page Configuration ---
-st.set_page_config(
-    page_title="Cancer Prediction Project",
-    page_icon="♋",
-    layout="wide"
-)
+st.set_page_config(page_title="Cancer Prediction Project", layout="wide")
 
-# --- Data Loading ---
 @st.cache_data
 def load_data():
-    """Load the synthetic cancer dataset."""
     df = pd.read_csv('synthetic_cancer_dataset.csv')
     return df
 
 df = load_data()
+# This is the template with all the original feature columns and their data types
+X_template = df.drop('Cancer_Type', axis=1)
 
-# --- Model Training Function with Caching ---
 @st.cache_resource
 def train_model():
-    """
-    Trains a scikit-learn pipeline model and returns both the
-    trained model and the list of feature columns used for training.
-    """
-    df_train = pd.read_csv('synthetic_cancer_dataset.csv')
-
-    X = df_train.drop('Cancer_Type', axis=1)
-    y = df_train['Cancer_Type']
-    
-    # <<< CHANGE START: Store column names for later use >>>
-    training_columns = X.columns
-    # <<< CHANGE END >>>
-    
+    y = df['Cancer_Type']
+    X = df.drop('Cancer_Type', axis=1)
     categorical_cols = X.select_dtypes(include=['object', 'category']).columns
     numerical_cols = X.select_dtypes(include=['int64', 'float64']).columns
-    
     preprocessor = ColumnTransformer(
         transformers=[
             ('num', StandardScaler(), numerical_cols),
-            ('cat', OneHotEncoder(handle_unknown='ignore'), categorical_cols)
-        ])
-    
+            ('cat', OneHotEncoder(handle_unknown='ignore'), categorical_cols)])
     model_pipeline = Pipeline(steps=[
         ('preprocessor', preprocessor),
-        ('classifier', RandomForestClassifier(n_estimators=100, random_state=42))
-    ])
-    
+        ('classifier', RandomForestClassifier(n_estimators=100, random_state=42))])
     model_pipeline.fit(X, y)
-    
-    # <<< CHANGE START: Return the column names along with the model >>>
-    return model_pipeline, training_columns
-    # <<< CHANGE END >>>
+    return model_pipeline
 
-with st.spinner("Preparing model... This may take a moment on first load."):
-    # Unpack the model and the training columns
-    model, training_cols = train_model()
-
+with st.spinner("Preparing model..."):
+    model = train_model()
 st.success("Model is ready!")
 st.markdown("---")
 
-# --- App Layout ---
 st.title("🔬 BDA Project: Cancer Type Prediction")
-st.markdown("""
-This application predicts cancer types using a Random Forest model trained on synthetic data. 
-Please provide the patient's details in the sidebar to get a prediction.
-""")
-
-# --- Sidebar for User Input ---
 st.sidebar.header("Patient Information")
 
 def user_input_features():
-    """Create sidebar widgets for user input."""
     age = st.sidebar.slider("Age", 20, 80, 45)
     gender = st.sidebar.selectbox("Gender", ("Male", "Female"))
     smoking = st.sidebar.selectbox("Smoking Status", ("Non-smoker", "Smoker"))
@@ -87,49 +52,34 @@ def user_input_features():
     physical_activity = st.sidebar.slider("Physical Activity (hours/week)", 0.0, 10.0, 3.0, 0.5)
     alcohol_intake = st.sidebar.slider("Alcohol Intake (drinks/week)", 0.0, 20.0, 5.0, 1.0)
     bmi = st.sidebar.slider("BMI", 15.0, 40.0, 25.0, 0.5)
-
-    data = {
-        'Age': age,
-        'Gender': gender,
-        'Smoking': smoking,
-        'Genetic_Risk': genetic_risk,
-        'Physical_Activity': physical_activity,
-        'Alcohol': alcohol_intake,
-        'BMI': bmi
-    }
-    features = pd.DataFrame(data, index=[0])
-    return features
+    data = {'Age': age, 'Gender': gender, 'Smoking': smoking, 'Genetic_Risk': genetic_risk,
+            'Physical_Activity': physical_activity, 'Alcohol': alcohol_intake, 'BMI': bmi}
+    return pd.DataFrame(data, index=[0])
 
 input_df = user_input_features()
 
-# --- Prediction Display ---
 st.subheader("Prediction Result")
 
 if st.sidebar.button("Predict"):
     
-    # <<< FINAL FIX START: This block robustly creates the full feature set >>>
-    # Get user input from the sidebar
+    # <<< FINAL, SIMPLIFIED, AND ROBUST FIX >>>
+    # 1. Take the first row of the original data as a perfect dictionary template
+    template_dict = X_template.iloc[0].to_dict()
+
+    # 2. Get the user's input as a dictionary
     user_input_dict = input_df.iloc[0].to_dict()
-
-    # Create a full DataFrame with all training columns and default values
-    # This ensures all columns are present and in the correct order
-    full_prediction_df = pd.DataFrame(columns=training_cols)
-    full_prediction_df.loc[0] = 0 # Start with a row of zeros
     
-    # Set default for object/categorical columns to 'No'
-    for col in full_prediction_df.select_dtypes(include=['object']).columns:
-        full_prediction_df[col] = 'No'
-
-    # Update the DataFrame with the user's actual input
-    for key, value in user_input_dict.items():
-        if key in full_prediction_df.columns:
-            full_prediction_df[key] = value
-    # <<< FINAL FIX END >>>
+    # 3. Update the template with the user's values
+    template_dict.update(user_input_dict)
+    
+    # 4. Convert the final, complete dictionary back to a DataFrame
+    # This guarantees all columns, data types, and order are correct.
+    prediction_input = pd.DataFrame([template_dict])
+    # <<< END FIX >>>
 
     try:
-        # Use the fully prepared DataFrame for prediction
-        prediction = model.predict(full_prediction_df)
-        prediction_proba = model.predict_proba(full_prediction_df)
+        prediction = model.predict(prediction_input)
+        prediction_proba = model.predict_proba(prediction_input)
         
         st.success(f"**Predicted Cancer Type:** `{prediction[0]}`")
         
@@ -140,13 +90,8 @@ if st.sidebar.button("Predict"):
     except Exception as e:
         st.error(f"An error occurred during prediction: {e}")
 
-st.sidebar.markdown("---")
-st.sidebar.info("This is a demonstration application. The data is synthetic and not for medical use.")
-
-# --- Data Visualizations ---
-st.markdown("---")
+# (The expander code for visualizations is omitted for brevity but should be kept in your file)
 with st.expander("📊 Dataset Visualizations"):
-    
     st.subheader("Distribution of Patient Age")
     fig1, ax1 = plt.subplots()
     sns.histplot(df['Age'], kde=True, bins=30, ax=ax1)
