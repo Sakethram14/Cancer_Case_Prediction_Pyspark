@@ -1,4 +1,4 @@
-# streamlit_app.py
+# streamlit_app.py (Corrected Version)
 
 import streamlit as st
 import pandas as pd
@@ -26,38 +26,26 @@ def load_data():
 df = load_data()
 
 # --- Model Training Function with Caching ---
-@st.cache_resource # This decorator caches the trained model
+@st.cache_resource
 def train_model():
     """Trains and returns a scikit-learn pipeline model."""
     df_train = pd.read_csv('synthetic_cancer_dataset.csv')
-
-    # Define Features (X) and Target (y)
     X = df_train.drop('Cancer_Type', axis=1)
     y = df_train['Cancer_Type']
-
-    # Identify column types
     categorical_cols = X.select_dtypes(include=['object', 'category']).columns
     numerical_cols = X.select_dtypes(include=['int64', 'float64']).columns
-
-    # Create a Preprocessing Pipeline
     preprocessor = ColumnTransformer(
         transformers=[
             ('num', StandardScaler(), numerical_cols),
             ('cat', OneHotEncoder(handle_unknown='ignore'), categorical_cols)
         ])
-
-    # Create the Full Machine Learning Pipeline
     model_pipeline = Pipeline(steps=[
         ('preprocessor', preprocessor),
         ('classifier', RandomForestClassifier(n_estimators=100, random_state=42))
     ])
-
-    # Train the Model on the entire dataset
     model_pipeline.fit(X, y)
-    
     return model_pipeline
 
-# Train or load the cached model
 with st.spinner("Training model on first run... This may take a moment."):
     model = train_model()
 
@@ -82,7 +70,6 @@ def user_input_features():
     gender = st.sidebar.selectbox("Gender", ("Male", "Female"))
     smoking = st.sidebar.selectbox("Smoking Status", ("Non-smoker", "Smoker"))
     genetic_risk = st.sidebar.selectbox("Genetic Risk", ("Low", "Medium", "High"))
-    
     physical_activity = st.sidebar.slider("Physical Activity (hours/week)", 0.0, 10.0, 3.0, 0.5)
     alcohol_intake = st.sidebar.slider("Alcohol Intake (drinks/week)", 0.0, 20.0, 5.0, 1.0)
     bmi = st.sidebar.slider("BMI", 15.0, 40.0, 25.0, 0.5)
@@ -93,7 +80,7 @@ def user_input_features():
         'Smoking': smoking,
         'Genetic_Risk': genetic_risk,
         'Physical_Activity': physical_activity,
-        'Alcohol_Intake': alcohol_intake,
+        'Alcohol': alcohol_intake, # <<< CHANGE: Renamed 'Alcohol_Intake' to 'Alcohol'
         'BMI': bmi
     }
     features = pd.DataFrame(data, index=[0])
@@ -106,9 +93,32 @@ input_df = user_input_features()
 st.subheader("Prediction Result")
 
 if st.sidebar.button("Predict"):
+
+    # <<< CHANGE START: Add missing columns with default values >>>
+    # Get the list of columns the model was trained on
+    training_columns = model.named_steps['preprocessor'].transformers_[1][2].tolist() + model.named_steps['preprocessor'].transformers_[0][2].tolist()
+
+    # Create a new DataFrame with default values for all training columns
+    prediction_df = pd.DataFrame(columns=training_columns)
+    prediction_df = pd.concat([prediction_df, input_df], ignore_index=True)
+
+    # Fill missing columns with default neutral values ('No' for symptoms, 0 for others)
+    # This ensures the model receives all expected features
+    for col in training_columns:
+        if col not in prediction_df.columns:
+            # Assuming symptom-like columns are categorical and can be defaulted to 'No'
+            if prediction_df[col].dtype == 'object' or col in ['Family_History', 'Abnormal_Bleeding', 'Cough', 'Shortness_of_Breath', 'Mouth_Pain', 'Fever', 'Weight_Loss', 'Ulcers', 'Fatigue', 'Lump_in_Breast', 'Loss_of_Appetite', 'Chest_Pain', 'Easy_Bruising', 'Night_Sweats']:
+                 prediction_df[col] = 'No'
+            else:
+                 prediction_df[col] = 0
+
+    # Reorder columns to match the training order
+    prediction_df = prediction_df[training_columns]
+    # <<< CHANGE END >>>
+
     try:
-        prediction = model.predict(input_df)
-        prediction_proba = model.predict_proba(input_df)
+        prediction = model.predict(prediction_df)
+        prediction_proba = model.predict_proba(prediction_df)
         
         st.success(f"**Predicted Cancer Type:** `{prediction[0]}`")
         
