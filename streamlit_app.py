@@ -1,4 +1,4 @@
-# streamlit_app.py (Final Corrected Version - Caching Fix)
+# streamlit_app.py (Final Version - Caching Fixed)
 
 import streamlit as st
 import pandas as pd
@@ -24,10 +24,10 @@ def get_model():
     Loads data and trains the model. The entire output (the model object)
     is cached so this function only runs once.
     """
-    df = pd.read_csv('synthetic_cancer_dataset.csv')
+    df_for_training = pd.read_csv('synthetic_cancer_dataset.csv')
     
-    X = df.drop('Cancer_Type', axis=1)
-    y = df['Cancer_Type']
+    X = df_for_training.drop('Cancer_Type', axis=1)
+    y = df_for_training['Cancer_Type']
     
     categorical_cols = X.select_dtypes(include=['object', 'category']).columns
     numerical_cols = X.select_dtypes(include=['int64', 'float64']).columns
@@ -45,18 +45,23 @@ def get_model():
     
     return model_pipeline
 
-# --- Data Loading (for EDA) ---
+# --- Data Loading (for EDA and Template) ---
 @st.cache_data
 def load_data():
-    """Loads the full dataframe for visualizations."""
+    """Loads the full dataframe for visualizations and creating the prediction template."""
     return pd.read_csv('synthetic_cancer_dataset.csv')
 
 # --- Main App Logic ---
 try:
+    # Get the trained model from the cached function
     model = get_model()
+    
+    # Load the full dataframe for UI elements and visualizations
     full_df = load_data()
     X_template = full_df.drop('Cancer_Type', axis=1)
+    
     st.success("Model is ready!")
+
 except Exception as e:
     st.error(f"An error occurred during model loading: {e}")
     st.stop()
@@ -96,11 +101,13 @@ user_input_dict = user_input_features()
 st.subheader("Prediction Result")
 
 if st.sidebar.button("Predict"):
+    # Create the input dataframe for prediction
     template_dict = X_template.iloc[0].to_dict()
     template_dict.update(user_input_dict)
     prediction_input = pd.DataFrame([template_dict])
 
     try:
+        # Make prediction
         prediction = model.predict(prediction_input)
         prediction_proba = model.predict_proba(prediction_input)
         
