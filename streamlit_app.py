@@ -1,4 +1,4 @@
-# streamlit_app.py (Corrected Version)
+# streamlit_app.py (Corrected Version 2.0)
 
 import streamlit as st
 import pandas as pd
@@ -80,7 +80,7 @@ def user_input_features():
         'Smoking': smoking,
         'Genetic_Risk': genetic_risk,
         'Physical_Activity': physical_activity,
-        'Alcohol': alcohol_intake, # <<< CHANGE: Renamed 'Alcohol_Intake' to 'Alcohol'
+        'Alcohol': alcohol_intake,
         'BMI': bmi
     }
     features = pd.DataFrame(data, index=[0])
@@ -93,28 +93,29 @@ input_df = user_input_features()
 st.subheader("Prediction Result")
 
 if st.sidebar.button("Predict"):
+    
+    # <<< FIX START: This block is new and improved >>>
+    # Get the column information from the trained pipeline
+    preprocessor = model.named_steps['preprocessor']
+    num_cols_trained = preprocessor.named_transformers_['num'].feature_names_in_
+    cat_cols_trained = preprocessor.named_transformers_['cat'].feature_names_in_
+    
+    # Create a copy for prediction to avoid changing sidebar input
+    prediction_df = input_df.copy()
 
-    # <<< CHANGE START: Add missing columns with default values >>>
-    # Get the list of columns the model was trained on
-    training_columns = model.named_steps['preprocessor'].transformers_[1][2].tolist() + model.named_steps['preprocessor'].transformers_[0][2].tolist()
-
-    # Create a new DataFrame with default values for all training columns
-    prediction_df = pd.DataFrame(columns=training_columns)
-    prediction_df = pd.concat([prediction_df, input_df], ignore_index=True)
-
-    # Fill missing columns with default neutral values ('No' for symptoms, 0 for others)
-    # This ensures the model receives all expected features
-    for col in training_columns:
+    # Add missing columns with appropriate defaults
+    for col in num_cols_trained:
         if col not in prediction_df.columns:
-            # Assuming symptom-like columns are categorical and can be defaulted to 'No'
-            if prediction_df[col].dtype == 'object' or col in ['Family_History', 'Abnormal_Bleeding', 'Cough', 'Shortness_of_Breath', 'Mouth_Pain', 'Fever', 'Weight_Loss', 'Ulcers', 'Fatigue', 'Lump_in_Breast', 'Loss_of_Appetite', 'Chest_Pain', 'Easy_Bruising', 'Night_Sweats']:
-                 prediction_df[col] = 'No'
-            else:
-                 prediction_df[col] = 0
+            prediction_df[col] = 0
+            
+    for col in cat_cols_trained:
+        if col not in prediction_df.columns:
+            prediction_df[col] = 'No' # Using 'No' as a safe default for categorical
 
-    # Reorder columns to match the training order
-    prediction_df = prediction_df[training_columns]
-    # <<< CHANGE END >>>
+    # Ensure the final DataFrame has the columns in the exact same order as during training
+    final_cols = list(num_cols_trained) + list(cat_cols_trained)
+    prediction_df = prediction_df[final_cols]
+    # <<< FIX END >>>
 
     try:
         prediction = model.predict(prediction_df)
