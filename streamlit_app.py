@@ -1,4 +1,4 @@
-# streamlit_app.py (Corrected Version 2.0)
+# streamlit_app.py (Final Corrected Version)
 
 import streamlit as st
 import pandas as pd
@@ -28,30 +28,45 @@ df = load_data()
 # --- Model Training Function with Caching ---
 @st.cache_resource
 def train_model():
-    """Trains and returns a scikit-learn pipeline model."""
+    """
+    Trains a scikit-learn pipeline model and returns both the
+    trained model and the list of feature columns used for training.
+    """
     df_train = pd.read_csv('synthetic_cancer_dataset.csv')
+
     X = df_train.drop('Cancer_Type', axis=1)
     y = df_train['Cancer_Type']
+    
+    # <<< CHANGE START: Store column names for later use >>>
+    training_columns = X.columns
+    # <<< CHANGE END >>>
+    
     categorical_cols = X.select_dtypes(include=['object', 'category']).columns
     numerical_cols = X.select_dtypes(include=['int64', 'float64']).columns
+    
     preprocessor = ColumnTransformer(
         transformers=[
             ('num', StandardScaler(), numerical_cols),
             ('cat', OneHotEncoder(handle_unknown='ignore'), categorical_cols)
         ])
+    
     model_pipeline = Pipeline(steps=[
         ('preprocessor', preprocessor),
         ('classifier', RandomForestClassifier(n_estimators=100, random_state=42))
     ])
+    
     model_pipeline.fit(X, y)
-    return model_pipeline
+    
+    # <<< CHANGE START: Return the column names along with the model >>>
+    return model_pipeline, training_columns
+    # <<< CHANGE END >>>
 
-with st.spinner("Training model on first run... This may take a moment."):
-    model = train_model()
+with st.spinner("Preparing model... This may take a moment on first load."):
+    # Unpack the model and the training columns
+    model, training_cols = train_model()
 
 st.success("Model is ready!")
 st.markdown("---")
-
 
 # --- App Layout ---
 st.title("🔬 BDA Project: Cancer Type Prediction")
@@ -59,7 +74,6 @@ st.markdown("""
 This application predicts cancer types using a Random Forest model trained on synthetic data. 
 Please provide the patient's details in the sidebar to get a prediction.
 """)
-
 
 # --- Sidebar for User Input ---
 st.sidebar.header("Patient Information")
@@ -88,38 +102,34 @@ def user_input_features():
 
 input_df = user_input_features()
 
-
 # --- Prediction Display ---
 st.subheader("Prediction Result")
 
 if st.sidebar.button("Predict"):
     
-    # <<< FIX START: This block is new and improved >>>
-    # Get the column information from the trained pipeline
-    preprocessor = model.named_steps['preprocessor']
-    num_cols_trained = preprocessor.named_transformers_['num'].feature_names_in_
-    cat_cols_trained = preprocessor.named_transformers_['cat'].feature_names_in_
+    # <<< FINAL FIX START: This block robustly creates the full feature set >>>
+    # Get user input from the sidebar
+    user_input_dict = input_df.iloc[0].to_dict()
+
+    # Create a full DataFrame with all training columns and default values
+    # This ensures all columns are present and in the correct order
+    full_prediction_df = pd.DataFrame(columns=training_cols)
+    full_prediction_df.loc[0] = 0 # Start with a row of zeros
     
-    # Create a copy for prediction to avoid changing sidebar input
-    prediction_df = input_df.copy()
+    # Set default for object/categorical columns to 'No'
+    for col in full_prediction_df.select_dtypes(include=['object']).columns:
+        full_prediction_df[col] = 'No'
 
-    # Add missing columns with appropriate defaults
-    for col in num_cols_trained:
-        if col not in prediction_df.columns:
-            prediction_df[col] = 0
-            
-    for col in cat_cols_trained:
-        if col not in prediction_df.columns:
-            prediction_df[col] = 'No' # Using 'No' as a safe default for categorical
-
-    # Ensure the final DataFrame has the columns in the exact same order as during training
-    final_cols = list(num_cols_trained) + list(cat_cols_trained)
-    prediction_df = prediction_df[final_cols]
-    # <<< FIX END >>>
+    # Update the DataFrame with the user's actual input
+    for key, value in user_input_dict.items():
+        if key in full_prediction_df.columns:
+            full_prediction_df[key] = value
+    # <<< FINAL FIX END >>>
 
     try:
-        prediction = model.predict(prediction_df)
-        prediction_proba = model.predict_proba(prediction_df)
+        # Use the fully prepared DataFrame for prediction
+        prediction = model.predict(full_prediction_df)
+        prediction_proba = model.predict_proba(full_prediction_df)
         
         st.success(f"**Predicted Cancer Type:** `{prediction[0]}`")
         
