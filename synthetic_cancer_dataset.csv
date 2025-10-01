@@ -1,0 +1,2401 @@
+Age,Gender,BMI,Smoking,Alcohol,Family_History,Fatigue,Weight_Loss,Fever,Night_Sweats,Loss_of_Appetite,Cough,Shortness_of_Breath,Chest_Pain,Abnormal_Bleeding,Mouth_Pain,Ulcers,Lump_in_Breast,Easy_Bruising,Cancer_Type
+39,Female,28.3,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+29,Female,31.1,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+45,Female,18.9,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+53,Male,33.0,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+47,Male,32.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+20,Female,26.4,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+69,Male,22.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+23,Male,28.1,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+62,Female,28.7,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+31,Female,25.6,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+33,Female,25.0,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+52,Male,32.9,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+66,Male,18.6,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+25,Female,32.3,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+73,Female,22.6,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+84,Female,32.7,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+79,Female,34.3,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+48,Male,26.2,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+71,Male,21.3,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+23,Female,20.1,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+53,Female,27.5,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+58,Male,34.3,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+35,Male,20.1,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+68,Male,33.3,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+22,Male,32.0,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+48,Male,26.2,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+51,Female,34.1,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+70,Male,32.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+37,Female,18.8,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+61,Male,33.5,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+25,Male,29.4,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+24,Female,26.9,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+51,Male,26.9,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+64,Male,33.7,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+39,Male,21.8,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+78,Male,30.0,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+31,Female,23.9,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+48,Female,19.5,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+31,Male,32.7,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+34,Male,25.8,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+74,Female,19.0,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+54,Female,24.5,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+42,Male,26.9,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+29,Female,26.9,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+74,Female,26.2,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+60,Female,33.3,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+31,Male,26.2,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+56,Male,20.4,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+77,Female,29.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+33,Male,29.0,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+38,Female,29.3,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+37,Female,33.3,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+40,Male,30.4,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+57,Male,34.6,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+80,Female,31.3,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+23,Male,34.0,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+26,Male,34.6,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+33,Female,22.3,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+74,Female,28.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+83,Female,23.1,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+84,Male,25.4,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+77,Male,28.4,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+81,Female,22.9,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+52,Female,25.4,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+62,Female,26.5,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+53,Male,33.2,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+62,Female,31.7,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+29,Female,32.3,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+76,Female,28.4,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+29,Male,29.5,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+60,Female,25.9,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+83,Male,26.7,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+24,Female,22.9,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+83,Male,33.0,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+66,Male,32.6,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+81,Female,32.7,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+47,Male,28.3,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+81,Male,30.2,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+49,Female,25.9,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+48,Female,25.4,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Lung Cancer
+33,Female,20.9,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+71,Male,23.5,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Lung Cancer
+81,Female,23.5,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+42,Male,33.5,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+81,Female,33.8,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+74,Male,30.3,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+48,Female,23.9,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+32,Female,24.6,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+39,Male,22.0,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+24,Male,34.5,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+33,Female,33.0,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+54,Female,23.0,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+72,Female,24.5,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+22,Female,23.9,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+78,Female,21.5,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+71,Male,19.0,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+54,Female,20.0,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+30,Female,22.6,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+42,Female,28.0,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+23,Female,26.3,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+28,Male,32.3,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+54,Female,30.4,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+79,Male,31.8,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+73,Male,21.7,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+40,Male,32.2,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+53,Male,26.2,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+66,Male,22.1,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+30,Male,31.0,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+63,Female,33.0,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+45,Male,19.0,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+66,Female,24.8,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+36,Female,30.4,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+65,Female,24.8,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+70,Male,21.6,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+82,Male,31.0,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+29,Male,23.9,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+36,Female,33.1,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+83,Male,27.0,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+57,Female,27.1,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+52,Female,22.4,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+23,Male,28.8,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+71,Female,21.5,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+70,Female,23.3,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+43,Female,23.2,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+39,Male,26.2,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+49,Male,23.3,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+83,Female,25.5,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+69,Male,33.7,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+25,Female,19.5,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+41,Male,32.0,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+59,Female,19.8,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+38,Male,24.2,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+45,Female,27.9,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+49,Male,32.8,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+52,Female,24.4,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+39,Female,22.4,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+38,Male,22.0,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+72,Male,28.2,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+79,Female,32.2,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+50,Female,23.9,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+33,Male,34.1,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+42,Male,22.3,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+27,Male,18.7,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+63,Female,19.9,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+66,Male,28.3,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+43,Male,32.9,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+46,Male,32.4,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+82,Male,28.4,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+81,Female,18.8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+51,Female,32.5,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+29,Female,28.4,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+61,Male,23.6,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+69,Male,32.5,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Lung Cancer
+81,Male,19.0,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+28,Male,27.0,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+81,Female,20.7,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+81,Female,30.3,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+75,Female,32.8,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+75,Male,23.5,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+28,Female,32.6,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+24,Male,25.8,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Lung Cancer
+58,Male,19.2,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+48,Female,26.8,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+73,Male,28.1,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+44,Female,22.9,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+28,Male,28.9,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+39,Female,34.8,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+30,Female,32.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+42,Female,34.9,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+57,Female,21.0,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+39,Female,24.7,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+58,Female,19.1,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+67,Male,20.7,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+83,Female,20.1,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+75,Female,19.5,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+66,Female,27.2,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+45,Male,25.9,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+36,Male,24.8,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+36,Male,19.2,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+47,Male,30.2,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+26,Male,18.6,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+43,Male,24.3,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+51,Male,20.1,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+38,Female,34.0,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+73,Male,31.9,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+45,Female,30.7,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+33,Female,30.1,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+69,Male,20.5,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+62,Female,21.0,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+77,Female,18.8,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+52,Female,31.7,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+43,Female,28.2,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+73,Female,24.7,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+44,Female,33.3,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+34,Female,26.7,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+31,Male,19.5,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+66,Male,29.4,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+35,Male,34.2,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+49,Female,28.7,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+45,Male,26.1,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+34,Female,18.8,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+63,Male,33.9,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+51,Female,33.8,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+31,Male,30.0,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+76,Female,32.7,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+59,Male,20.9,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+61,Male,20.3,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+79,Female,24.0,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+36,Male,20.1,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+31,Male,20.0,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+73,Female,19.0,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+31,Female,19.4,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+80,Male,18.5,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+74,Male,19.7,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+36,Male,27.7,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+57,Female,21.7,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+32,Male,25.7,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+27,Male,24.3,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+23,Female,21.2,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+22,Female,21.6,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+38,Female,24.9,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+53,Male,34.6,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+62,Female,20.6,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+39,Male,32.6,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+44,Male,20.4,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+35,Female,31.6,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+34,Male,24.5,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+48,Female,18.8,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+28,Male,21.1,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+77,Female,19.8,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+81,Male,34.5,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+68,Female,26.6,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+48,Male,29.0,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+57,Male,26.3,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+25,Male,33.2,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+25,Female,33.1,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+35,Female,26.4,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+32,Male,19.4,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+71,Male,30.7,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+54,Male,23.4,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+43,Male,25.9,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+79,Female,26.3,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+71,Female,25.4,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+71,Female,24.9,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+28,Female,32.9,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+41,Male,26.6,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+24,Male,29.9,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+77,Female,30.3,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+38,Male,30.6,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+79,Male,20.7,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+42,Female,29.7,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+78,Male,21.5,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+80,Male,22.4,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+35,Female,34.2,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+34,Female,28.8,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+43,Female,20.9,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+36,Female,21.9,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+65,Female,25.4,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+77,Female,22.6,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+76,Female,21.2,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+66,Male,30.1,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+70,Female,27.9,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+29,Female,25.7,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+46,Female,24.9,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+51,Male,23.2,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+31,Male,20.3,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+47,Female,27.1,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+25,Male,32.6,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+44,Female,27.8,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+81,Female,32.7,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+49,Male,31.0,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+42,Male,23.6,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+68,Female,22.3,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+72,Female,23.7,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+83,Female,22.7,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+75,Male,20.8,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+58,Male,33.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+64,Male,19.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+21,Male,25.2,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+56,Female,31.4,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+37,Female,30.7,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+73,Female,22.2,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+30,Female,32.3,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+72,Female,33.9,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+31,Female,21.4,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+53,Male,32.5,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+83,Female,19.5,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+38,Male,21.3,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+36,Male,28.6,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+21,Male,28.0,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+47,Female,18.7,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+41,Female,33.1,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+76,Female,18.7,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+51,Male,21.5,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+68,Female,23.3,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+71,Female,26.4,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+59,Male,18.8,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+61,Female,31.5,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+35,Male,34.2,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+33,Female,19.0,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+68,Male,18.6,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+39,Female,21.6,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+26,Male,31.9,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+33,Male,32.3,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+21,Female,31.1,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+63,Female,19.6,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+71,Female,23.8,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+71,Female,22.6,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+84,Female,19.8,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+24,Female,19.8,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+44,Male,24.5,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+57,Female,27.2,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+70,Male,28.1,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+50,Female,26.0,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+69,Female,34.1,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+78,Male,22.4,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+50,Male,23.5,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+82,Female,25.4,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+36,Male,19.7,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+25,Female,29.0,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+21,Male,23.5,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+44,Female,26.5,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+33,Female,32.0,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+69,Male,26.1,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+35,Female,33.9,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+52,Female,23.0,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+60,Male,32.6,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+83,Female,19.6,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Lung Cancer
+38,Male,30.5,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+73,Male,23.5,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+50,Female,34.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+50,Male,24.2,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+60,Female,20.2,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+52,Female,31.7,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+36,Male,33.7,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+62,Female,32.3,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+31,Male,33.7,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+64,Male,23.1,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+33,Male,30.3,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+68,Female,34.3,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+65,Female,34.9,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+79,Male,26.8,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+38,Female,21.4,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+35,Female,25.5,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+27,Male,32.4,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+62,Female,19.0,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+80,Female,22.4,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+71,Female,33.7,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+34,Female,33.0,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+73,Male,24.5,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+41,Male,19.6,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+41,Male,28.8,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+31,Female,24.7,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Lung Cancer
+60,Male,30.9,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+20,Male,34.3,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+26,Female,25.4,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+57,Female,33.6,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+31,Male,33.8,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+57,Male,27.0,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Lung Cancer
+49,Male,34.4,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+80,Male,24.0,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+49,Male,25.3,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+63,Female,22.3,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+43,Male,34.2,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+50,Male,20.2,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+34,Female,33.5,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+25,Female,34.2,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+80,Male,30.4,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+22,Male,31.2,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+73,Male,31.4,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+44,Male,23.2,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+59,Male,32.6,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+81,Female,25.2,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+32,Male,24.8,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+77,Male,34.0,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+47,Male,18.6,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+45,Male,31.8,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+72,Female,33.6,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+79,Female,33.8,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+73,Male,18.6,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+23,Female,22.8,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+31,Female,18.7,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+37,Female,28.8,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+68,Male,23.4,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Lung Cancer
+62,Male,29.0,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+34,Female,19.6,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Lung Cancer
+75,Male,27.7,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+62,Female,20.6,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+48,Male,21.6,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+26,Male,28.2,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+48,Male,30.2,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Lung Cancer
+80,Female,27.7,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+75,Female,23.6,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+72,Female,28.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+66,Female,25.9,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+84,Male,28.2,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+36,Male,26.3,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+72,Female,24.4,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Lung Cancer
+83,Male,27.5,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Lung Cancer
+65,Female,26.6,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Lung Cancer
+63,Female,20.0,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+57,Female,28.0,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+35,Female,24.3,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+25,Female,24.4,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+70,Female,21.3,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+43,Female,19.6,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+78,Female,30.2,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+76,Female,22.8,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+31,Female,20.3,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+21,Female,29.1,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+34,Female,18.6,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,24.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+44,Female,31.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+77,Female,23.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+58,Female,27.3,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+39,Female,18.7,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+43,Female,29.8,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+80,Female,31.0,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+24,Female,23.7,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+36,Female,30.5,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+67,Female,19.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+36,Female,27.2,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+54,Female,22.3,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+57,Female,34.7,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+41,Female,28.3,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+73,Female,33.4,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+61,Female,34.1,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+61,Female,19.7,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+36,Female,28.9,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+75,Female,28.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+63,Female,24.5,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+53,Female,30.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+21,Female,23.4,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+69,Female,18.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+81,Female,20.5,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,26.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+58,Female,24.3,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+35,Female,24.4,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+59,Female,19.6,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+34,Female,23.7,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+39,Female,28.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+55,Female,19.0,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+52,Female,27.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+80,Female,29.7,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+24,Female,18.8,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+60,Female,28.5,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+25,Female,24.3,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+45,Female,23.2,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+53,Female,29.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+56,Female,29.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+75,Female,24.2,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+77,Female,28.3,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+81,Female,34.5,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+23,Female,30.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+62,Female,27.4,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+75,Female,20.4,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+74,Female,20.0,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+45,Female,20.3,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+52,Female,26.6,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+46,Female,28.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+53,Female,22.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+34,Female,29.5,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+75,Female,25.2,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+77,Female,31.8,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+26,Female,25.4,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+71,Female,33.8,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+82,Female,31.4,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+40,Female,24.6,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+55,Female,34.8,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+47,Female,34.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+72,Female,19.1,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+23,Female,28.4,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+37,Female,26.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+83,Female,32.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+84,Female,30.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,33.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+28,Female,28.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+36,Female,33.5,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+53,Female,23.2,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,32.0,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Cervical Cancer
+52,Female,24.4,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+84,Female,23.0,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+72,Female,34.3,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+56,Female,23.9,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+20,Female,30.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+46,Female,26.4,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+29,Female,24.9,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+62,Female,24.6,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,30.9,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+39,Female,33.6,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+57,Female,19.8,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+29,Female,26.2,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+51,Female,22.0,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+84,Female,34.6,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+29,Female,30.2,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+42,Female,24.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+47,Female,23.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+67,Female,31.3,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+49,Female,19.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+59,Female,26.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+25,Female,30.4,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+43,Female,29.1,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+42,Female,30.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,30.1,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+32,Female,22.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+32,Female,30.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+38,Female,20.0,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,32.1,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,21.6,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+49,Female,32.1,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+61,Female,19.2,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+82,Female,23.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+65,Female,23.0,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+76,Female,34.3,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+46,Female,22.1,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+55,Female,33.2,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+61,Female,30.8,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+58,Female,22.1,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+74,Female,23.8,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+45,Female,26.1,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+38,Female,28.2,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+24,Female,33.1,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+38,Female,19.4,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+78,Female,23.7,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,28.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+69,Female,30.7,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+37,Female,31.9,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+34,Female,18.7,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+59,Female,20.7,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+81,Female,20.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+68,Female,30.8,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+43,Female,25.2,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+78,Female,27.9,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+20,Female,30.1,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+72,Female,34.4,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+25,Female,26.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+39,Female,30.2,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+82,Female,26.8,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+61,Female,30.8,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+59,Female,22.3,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+84,Female,25.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+71,Female,29.8,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+69,Female,34.8,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+62,Female,31.1,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,21.2,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+33,Female,26.8,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+60,Female,21.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+55,Female,33.9,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+65,Female,29.3,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+21,Female,34.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+82,Female,30.1,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+76,Female,32.2,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+37,Female,32.2,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+34,Female,28.1,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+33,Female,33.6,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+43,Female,30.7,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+33,Female,21.6,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+48,Female,32.5,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+39,Female,25.0,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+46,Female,32.0,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+73,Female,30.6,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+60,Female,34.4,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+49,Female,19.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+57,Female,26.9,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+75,Female,23.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,23.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+49,Female,33.3,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,24.2,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+75,Female,34.1,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Cervical Cancer
+59,Female,25.8,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+37,Female,18.7,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Cervical Cancer
+47,Female,29.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+59,Female,33.5,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+21,Female,28.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+79,Female,33.1,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,30.6,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+82,Female,24.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+76,Female,31.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+34,Female,33.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+20,Female,26.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+39,Female,26.8,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+58,Female,21.1,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+32,Female,25.8,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+41,Female,22.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+22,Female,27.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+68,Female,20.3,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+30,Female,30.8,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+57,Female,32.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+51,Female,21.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+67,Female,27.8,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+28,Female,24.6,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+25,Female,18.7,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+34,Female,33.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+65,Female,28.9,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+46,Female,28.7,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,26.7,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+38,Female,25.6,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+64,Female,19.9,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,28.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+30,Female,27.7,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+74,Female,34.7,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+47,Female,31.4,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+53,Female,29.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+80,Female,33.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+27,Female,29.6,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+58,Female,32.0,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+23,Female,30.3,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+21,Female,21.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+40,Female,23.0,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+69,Female,20.2,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+79,Female,23.1,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+49,Female,18.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+43,Female,25.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+49,Female,33.9,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+25,Female,22.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+26,Female,30.6,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+71,Female,24.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+23,Female,34.4,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+36,Female,19.3,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+22,Female,34.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,34.3,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+62,Female,22.4,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+44,Female,33.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+65,Female,33.7,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,26.6,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+41,Female,18.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+39,Female,19.5,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+70,Female,29.7,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+22,Female,19.8,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+81,Female,34.4,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+46,Female,20.3,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+48,Female,19.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+59,Female,22.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+38,Female,35.0,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+40,Female,30.0,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+73,Female,20.7,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+31,Female,24.5,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+64,Female,25.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+55,Female,32.0,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+68,Female,21.7,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+64,Female,21.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,18.7,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+24,Female,18.5,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+54,Female,32.2,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+61,Female,33.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,30.4,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+35,Female,32.4,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+32,Female,25.3,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Cervical Cancer
+43,Female,33.0,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,31.4,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+24,Female,34.2,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+80,Female,32.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+71,Female,21.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+24,Female,33.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+81,Female,29.5,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+65,Female,28.5,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+54,Female,27.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+45,Female,32.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+24,Female,32.2,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+54,Female,27.7,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+70,Female,34.4,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+51,Female,24.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+47,Female,34.0,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+68,Female,29.0,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+33,Female,34.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+74,Female,24.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+29,Female,28.3,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+32,Female,32.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+34,Female,28.2,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+65,Female,22.2,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+84,Female,33.9,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+71,Female,33.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+51,Female,21.7,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+37,Female,33.8,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+83,Female,18.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+35,Female,25.4,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,21.5,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+39,Female,32.2,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+37,Female,29.2,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+45,Female,26.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+78,Female,20.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+54,Female,24.5,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+74,Female,30.0,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,29.0,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+35,Female,22.5,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+52,Female,26.6,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+49,Female,29.4,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,30.3,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+62,Female,19.8,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+33,Female,32.3,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+46,Female,27.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+28,Female,26.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+32,Female,25.3,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+29,Female,31.8,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+64,Female,34.7,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+77,Female,33.4,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+20,Female,20.0,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+29,Female,23.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+31,Female,33.3,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Cervical Cancer
+50,Female,21.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+37,Female,27.6,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+37,Female,26.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+73,Female,28.4,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+43,Female,18.7,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+36,Female,30.6,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+39,Female,19.2,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+82,Female,30.4,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+72,Female,28.1,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+58,Female,22.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+73,Female,29.4,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,31.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+47,Female,21.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+44,Female,32.5,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+22,Female,22.8,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+30,Female,28.5,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+24,Female,30.4,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+71,Female,21.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+23,Female,24.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,25.7,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+53,Female,20.3,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+81,Female,27.1,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+65,Female,32.3,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+59,Female,34.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+69,Female,29.2,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+76,Female,30.4,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+71,Female,22.1,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+22,Female,22.3,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+38,Female,31.5,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+46,Female,24.0,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+60,Female,29.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+48,Female,22.0,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+82,Female,34.2,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+79,Female,23.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+70,Female,33.2,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,26.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+63,Female,24.3,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+57,Female,24.7,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+20,Female,32.8,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+41,Female,24.7,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+36,Female,24.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+84,Female,23.3,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+62,Female,29.8,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+84,Female,25.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+84,Female,30.5,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+52,Female,23.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,20.8,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Cervical Cancer
+77,Female,20.4,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+78,Female,29.1,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+33,Female,26.6,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+74,Female,19.4,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+38,Female,30.1,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+23,Female,25.4,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+79,Female,33.5,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+29,Female,31.3,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+55,Female,32.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+31,Female,28.5,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+55,Female,19.6,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+71,Female,23.9,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+33,Female,19.7,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+34,Female,25.3,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+34,Female,25.7,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+51,Female,32.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+58,Female,22.1,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+25,Female,20.8,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+84,Female,18.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+74,Female,34.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+26,Female,20.3,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+59,Female,26.5,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+42,Female,34.7,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+82,Female,27.8,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+39,Female,19.7,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+40,Female,21.6,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+46,Female,18.7,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+32,Female,24.6,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+66,Female,18.6,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+29,Female,21.4,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+70,Female,29.1,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,29.2,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+54,Female,19.0,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+79,Female,22.3,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+38,Female,19.9,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+22,Female,33.0,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+48,Female,20.3,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+33,Female,20.7,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+62,Female,23.0,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+30,Female,28.6,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+50,Female,24.6,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+79,Female,32.0,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+20,Female,30.7,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+73,Female,25.5,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+46,Female,30.1,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+35,Female,22.7,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+61,Female,21.1,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+75,Female,31.7,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Cervical Cancer
+63,Female,28.5,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+27,Female,21.8,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+24,Female,27.1,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+33,Female,20.1,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+67,Female,24.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Cervical Cancer
+39,Female,26.8,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Cervical Cancer
+43,Female,18.8,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+72,Male,19.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+38,Male,29.8,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+60,Female,24.9,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+29,Female,34.3,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+72,Male,32.7,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+84,Female,27.7,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+68,Female,31.2,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+67,Male,25.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+40,Female,23.5,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+36,Male,27.1,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+50,Male,31.0,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+51,Female,29.9,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+70,Male,24.7,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+34,Male,20.4,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+71,Female,18.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+24,Male,26.6,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+30,Male,32.7,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+82,Female,32.5,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+42,Female,32.3,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+49,Male,27.6,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+20,Male,22.5,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+49,Male,20.7,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+51,Female,33.8,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+82,Male,21.3,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+64,Female,29.9,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+22,Female,22.1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+65,Female,21.7,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+23,Female,20.6,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+49,Female,33.0,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+69,Male,29.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+64,Male,24.0,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+81,Female,32.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+34,Female,21.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+69,Female,30.8,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+76,Female,27.0,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+65,Male,18.5,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+20,Female,26.4,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+40,Female,20.3,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+55,Female,33.3,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Oral Cancer
+65,Male,22.9,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+83,Male,29.6,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+51,Female,25.1,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+50,Female,34.1,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+60,Male,26.8,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+74,Female,27.6,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+83,Female,30.1,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+55,Male,31.9,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+36,Female,24.1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+48,Female,33.7,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+75,Female,20.1,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+55,Female,20.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+39,Female,27.7,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+44,Male,18.9,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+32,Male,34.3,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+72,Female,29.4,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+71,Male,27.2,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+78,Male,19.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+67,Female,27.2,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+53,Male,27.9,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+28,Female,34.5,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+78,Female,18.6,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+27,Male,19.5,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+82,Male,30.3,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+25,Female,27.5,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+55,Male,23.7,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Oral Cancer
+56,Male,23.3,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+58,Male,34.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+73,Female,26.5,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+29,Female,29.6,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+49,Male,33.3,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+36,Male,33.6,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+37,Male,27.0,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+84,Male,19.3,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+39,Male,24.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+32,Female,19.3,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+68,Male,33.3,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+49,Female,33.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+33,Female,28.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+45,Male,19.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+66,Female,18.9,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Oral Cancer
+38,Male,25.9,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+44,Male,30.3,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+56,Female,28.3,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+23,Female,31.9,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+40,Male,32.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+33,Female,31.1,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+23,Male,34.5,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+27,Male,29.9,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+58,Female,23.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+62,Female,34.6,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+23,Male,24.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+51,Male,34.8,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+33,Female,26.4,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+31,Female,20.3,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+52,Male,27.1,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+30,Male,22.7,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+36,Female,23.1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+45,Male,24.2,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+21,Female,23.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+49,Male,25.1,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+20,Female,22.5,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+24,Male,25.3,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+41,Female,32.7,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Oral Cancer
+72,Female,24.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+77,Male,18.9,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+34,Female,28.6,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+46,Male,19.8,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+51,Male,21.7,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+32,Male,34.1,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Oral Cancer
+75,Female,29.5,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+45,Female,32.6,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+83,Male,22.6,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+24,Female,30.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+34,Female,27.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+33,Female,31.2,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+40,Male,26.9,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+69,Female,34.5,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Oral Cancer
+65,Male,19.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+48,Male,27.8,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+76,Female,26.4,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+35,Male,22.3,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+50,Female,20.9,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+82,Male,31.9,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+31,Male,27.5,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+51,Male,31.7,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+82,Male,32.1,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+30,Female,33.1,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+39,Male,34.8,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+60,Male,24.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+61,Male,24.6,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+82,Female,33.5,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+53,Male,22.0,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+52,Male,24.7,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+38,Female,29.5,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+80,Female,33.2,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+81,Female,31.2,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+33,Male,22.5,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+42,Female,30.9,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+50,Female,20.8,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+70,Female,31.6,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+63,Female,23.4,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+49,Male,27.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+42,Male,26.4,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+31,Male,19.7,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+57,Female,34.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+27,Male,20.2,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+35,Male,26.3,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+25,Male,34.3,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+74,Male,25.6,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+37,Male,21.2,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+47,Male,21.0,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+44,Female,25.7,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+60,Female,27.8,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+46,Male,25.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+67,Female,30.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+62,Male,34.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+48,Male,30.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+67,Male,33.8,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+79,Female,27.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+45,Male,22.6,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+28,Female,30.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+53,Male,33.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+72,Female,25.5,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+72,Male,24.5,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+28,Female,19.8,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+30,Female,31.8,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+35,Female,22.9,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+32,Female,26.2,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+46,Male,18.6,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+42,Male,28.2,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+27,Male,23.4,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+59,Male,23.0,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+33,Male,27.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+82,Female,24.3,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+40,Male,23.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+33,Male,20.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+48,Female,29.2,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+62,Female,32.1,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+58,Male,31.6,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+58,Female,19.5,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+64,Female,27.1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+22,Female,24.7,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+21,Female,25.3,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+42,Male,22.0,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+59,Male,23.8,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+76,Male,27.5,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+62,Male,32.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+83,Female,24.3,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+50,Male,24.6,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+54,Female,30.4,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+32,Female,24.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+24,Male,22.6,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+72,Male,33.1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+31,Female,29.7,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+45,Male,28.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Oral Cancer
+43,Male,25.4,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+41,Female,29.6,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+76,Female,32.8,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+71,Female,22.5,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+55,Male,29.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+45,Male,31.7,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+34,Male,28.0,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+61,Female,24.4,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+57,Male,30.1,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+56,Female,25.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+67,Male,34.2,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+59,Female,29.3,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Oral Cancer
+26,Female,29.4,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+48,Female,29.5,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Oral Cancer
+76,Male,32.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+67,Female,29.7,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+82,Female,28.5,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+40,Male,27.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+32,Female,25.6,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+53,Female,18.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Oral Cancer
+70,Female,24.5,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+20,Male,29.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+30,Male,33.2,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+83,Female,28.1,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+65,Male,23.4,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+44,Male,33.1,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+79,Female,27.0,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+25,Male,35.0,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+56,Female,19.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+21,Female,20.7,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+33,Female,20.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+63,Male,27.8,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+65,Male,34.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+61,Male,18.7,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+37,Male,24.6,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+55,Male,30.7,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+56,Male,33.1,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+43,Male,30.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+51,Female,33.9,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+26,Male,29.2,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+64,Female,20.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+69,Male,27.8,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+28,Female,32.6,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+39,Female,29.8,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+21,Female,28.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+42,Male,21.9,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+62,Female,29.8,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+21,Male,25.2,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+74,Female,21.2,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+50,Female,23.9,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+56,Male,31.1,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+31,Female,21.9,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+56,Female,28.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+83,Female,31.1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+29,Female,25.1,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+63,Male,21.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Oral Cancer
+38,Male,27.0,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+83,Female,34.6,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+56,Female,20.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+22,Male,27.5,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+22,Female,19.4,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+25,Male,32.7,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+40,Male,27.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+43,Female,23.4,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+48,Male,21.6,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+49,Female,33.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+74,Female,24.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+25,Male,26.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+43,Male,22.4,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+76,Female,19.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+71,Male,34.1,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+54,Male,27.9,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+61,Female,33.9,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+58,Female,27.9,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+27,Male,18.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+20,Female,30.0,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+70,Female,22.7,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+29,Male,22.6,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+71,Male,32.9,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+32,Female,24.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+79,Female,29.8,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+24,Male,33.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+50,Female,19.9,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+59,Male,20.8,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+53,Female,28.4,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+71,Female,30.8,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+79,Male,32.4,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+62,Male,31.4,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+67,Female,19.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+31,Male,22.1,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+83,Female,29.0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+62,Female,32.2,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+21,Male,21.3,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+33,Female,20.3,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+73,Female,26.4,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+20,Male,30.1,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+40,Male,30.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+25,Male,21.9,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+38,Female,28.6,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+36,Female,22.2,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+72,Female,20.3,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+54,Male,21.1,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+31,Female,31.4,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+58,Female,30.8,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+32,Male,23.1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+27,Male,23.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+47,Male,33.4,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+37,Male,29.9,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+52,Female,24.3,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+54,Male,31.3,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+53,Male,24.8,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+57,Female,32.2,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+24,Male,31.5,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+43,Male,29.3,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+76,Male,34.7,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+53,Male,34.7,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+36,Female,32.6,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+68,Female,24.3,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+43,Male,21.7,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+63,Male,25.3,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+26,Female,24.9,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+43,Female,28.3,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+41,Male,21.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+26,Female,29.1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+55,Female,34.3,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+46,Female,34.5,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+43,Female,27.9,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+36,Male,28.2,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+60,Female,24.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+38,Female,30.7,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+55,Female,34.6,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+82,Male,19.2,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+71,Male,26.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+55,Male,27.0,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+71,Female,22.1,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+53,Female,31.6,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+24,Male,23.5,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+22,Male,25.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+84,Female,32.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+50,Female,30.8,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+76,Female,30.9,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+71,Male,30.5,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+43,Female,20.4,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+25,Female,26.7,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+83,Male,28.4,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+49,Male,33.1,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+69,Male,23.3,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Oral Cancer
+72,Female,25.5,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+33,Male,31.9,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+33,Female,31.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+60,Female,28.3,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+56,Male,22.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+51,Female,26.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+78,Male,21.3,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+80,Male,29.4,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+35,Male,33.3,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+48,Female,31.3,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+20,Male,34.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+39,Male,29.5,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+67,Female,33.2,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+60,Male,30.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+47,Male,28.7,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+79,Male,29.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+62,Female,32.5,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+59,Male,19.1,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+26,Male,34.8,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+30,Male,28.7,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+78,Female,29.0,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+26,Male,23.6,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+35,Male,18.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+33,Female,34.5,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+77,Male,30.4,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+44,Male,30.2,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+36,Female,22.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+67,Female,31.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+57,Male,31.0,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+70,Female,30.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+38,Female,32.2,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+51,Female,27.0,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+28,Female,32.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+57,Female,31.9,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+21,Female,26.8,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+78,Female,18.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+35,Male,33.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+49,Female,24.3,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+70,Female,32.9,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+27,Male,28.5,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+45,Female,34.7,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+41,Male,20.7,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+74,Male,25.8,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+78,Male,20.3,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+83,Male,27.4,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+57,Male,34.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+26,Female,22.6,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+23,Female,25.2,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+47,Female,27.7,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+55,Male,24.3,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+31,Male,20.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+30,Female,26.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+35,Male,31.6,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Oral Cancer
+41,Male,20.3,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+62,Male,20.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+26,Female,25.7,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Oral Cancer
+71,Male,24.4,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Oral Cancer
+49,Female,29.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+28,Female,21.9,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+33,Female,24.2,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+74,Female,33.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+36,Female,25.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+51,Female,32.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+52,Female,20.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+30,Female,29.1,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+21,Female,28.2,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+33,Female,24.1,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Breast Cancer
+23,Female,19.0,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+74,Female,19.1,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+45,Female,21.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+50,Female,22.3,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+34,Female,28.1,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+49,Female,33.7,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+52,Female,23.0,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,28.4,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+46,Female,23.7,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+50,Female,33.2,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+62,Female,27.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+64,Female,22.5,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+68,Female,34.4,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+63,Female,19.6,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+65,Female,31.8,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+54,Female,27.2,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+21,Female,31.0,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+23,Female,27.9,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+27,Female,22.4,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+63,Female,19.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+49,Female,31.9,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+73,Female,32.9,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,32.8,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+77,Female,18.7,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+57,Female,23.4,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+26,Female,22.1,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+26,Female,30.6,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Breast Cancer
+57,Female,26.0,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+56,Female,22.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+43,Female,28.5,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+67,Female,33.8,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+34,Female,28.6,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+84,Female,27.1,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+84,Female,32.2,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+44,Female,22.4,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,26.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+69,Female,23.4,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+35,Female,24.2,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+31,Female,22.5,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+57,Female,31.0,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+56,Female,29.4,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+34,Female,20.4,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+78,Female,34.0,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+77,Female,24.7,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+64,Female,29.8,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,30.5,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+46,Female,22.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+55,Female,19.7,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+70,Female,30.7,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+22,Female,22.8,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+53,Female,33.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+23,Female,30.7,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+79,Female,27.9,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+82,Female,32.8,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+40,Female,23.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+46,Female,33.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+57,Female,20.8,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+59,Female,18.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+38,Female,26.5,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+44,Female,32.7,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+77,Female,24.0,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+38,Female,25.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+28,Female,19.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Breast Cancer
+40,Female,23.1,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Breast Cancer
+70,Female,19.7,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+59,Female,33.4,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+49,Female,22.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+41,Female,20.4,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+29,Female,23.5,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+53,Female,30.9,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+26,Female,34.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+53,Female,33.1,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+23,Female,22.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+72,Female,26.6,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+41,Female,28.9,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+66,Female,23.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+42,Female,33.2,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,23.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,22.9,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+59,Female,33.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+40,Female,28.4,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+60,Female,34.2,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+53,Female,22.8,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+48,Female,29.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+57,Female,24.6,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+34,Female,30.6,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+82,Female,19.4,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+81,Female,28.6,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+45,Female,24.8,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+42,Female,20.1,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+72,Female,31.6,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+45,Female,31.9,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+60,Female,27.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+45,Female,23.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+62,Female,27.8,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+71,Female,26.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+41,Female,22.6,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+35,Female,27.8,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+79,Female,26.7,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,33.1,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+55,Female,21.3,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,29.8,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+26,Female,25.8,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+59,Female,34.0,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+25,Female,25.4,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+60,Female,21.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+43,Female,28.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+29,Female,22.4,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+39,Female,34.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+40,Female,28.8,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+21,Female,27.0,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,34.1,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+23,Female,34.6,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+24,Female,21.3,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+20,Female,21.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+50,Female,20.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+46,Female,32.5,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+37,Female,26.6,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+70,Female,22.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+33,Female,28.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+38,Female,34.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+51,Female,23.4,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+54,Female,34.6,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+55,Female,25.1,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+21,Female,28.8,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+34,Female,23.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+21,Female,27.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+77,Female,28.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+25,Female,30.9,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,26.1,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+26,Female,28.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+39,Female,31.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,34.3,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+75,Female,28.3,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+28,Female,28.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+46,Female,33.5,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+83,Female,34.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,23.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+26,Female,23.8,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+83,Female,32.5,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+78,Female,31.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+54,Female,22.4,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+33,Female,27.6,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+80,Female,32.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+31,Female,21.2,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+43,Female,28.6,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+83,Female,27.2,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+28,Female,29.6,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+22,Female,23.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+78,Female,20.9,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+53,Female,26.6,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+34,Female,18.7,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+62,Female,25.7,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+43,Female,21.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,31.2,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+71,Female,31.1,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+70,Female,32.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+56,Female,26.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+63,Female,24.6,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+78,Female,31.5,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+68,Female,27.6,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+79,Female,31.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+62,Female,24.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+51,Female,31.3,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+34,Female,34.1,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+69,Female,33.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+74,Female,20.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+53,Female,20.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+44,Female,21.6,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+24,Female,32.3,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+37,Female,21.2,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+30,Female,20.7,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+30,Female,24.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+25,Female,30.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+71,Female,24.4,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,32.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+25,Female,30.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+80,Female,22.4,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+30,Female,32.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+81,Female,22.5,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+76,Female,28.3,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+30,Female,18.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+82,Female,30.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+25,Female,24.8,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+82,Female,25.8,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+57,Female,28.9,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+62,Female,24.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Breast Cancer
+53,Female,19.8,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+31,Female,30.8,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+44,Female,30.1,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+43,Female,21.7,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+66,Female,28.8,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Breast Cancer
+52,Female,33.5,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Breast Cancer
+55,Female,32.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+62,Female,28.8,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+51,Female,28.2,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Breast Cancer
+58,Female,21.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,19.0,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+29,Female,33.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+42,Female,19.7,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,23.2,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+52,Female,19.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+45,Female,27.7,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+51,Female,34.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+67,Female,32.8,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+78,Female,24.0,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+42,Female,24.8,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+75,Female,29.8,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+33,Female,28.1,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+31,Female,22.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+27,Female,24.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+40,Female,25.2,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+29,Female,30.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+66,Female,31.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+68,Female,25.6,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+40,Female,24.3,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+63,Female,25.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+75,Female,28.7,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+25,Female,34.8,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+64,Female,34.8,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+71,Female,25.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+68,Female,23.9,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+58,Female,19.4,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+67,Female,20.4,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+48,Female,21.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+78,Female,18.6,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Breast Cancer
+52,Female,21.6,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,21.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+46,Female,34.2,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+25,Female,22.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+71,Female,25.8,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+48,Female,25.3,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+83,Female,21.1,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+83,Female,28.9,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+40,Female,26.8,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+44,Female,19.0,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+31,Female,32.1,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+82,Female,24.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Breast Cancer
+59,Female,30.1,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+27,Female,24.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+56,Female,21.6,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+42,Female,31.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+78,Female,33.1,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+48,Female,33.8,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+66,Female,24.6,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+64,Female,31.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,25.0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+60,Female,29.9,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+79,Female,29.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+24,Female,18.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+55,Female,18.6,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+68,Female,23.1,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+41,Female,29.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+80,Female,27.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+63,Female,26.1,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+78,Female,27.8,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+62,Female,21.6,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+55,Female,19.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+33,Female,30.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+71,Female,31.3,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+42,Female,19.6,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+48,Female,20.3,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+64,Female,18.6,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Breast Cancer
+46,Female,24.7,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Breast Cancer
+60,Female,32.6,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+34,Female,29.1,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+39,Female,19.2,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+80,Female,33.4,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+28,Female,22.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+56,Female,25.8,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Breast Cancer
+26,Female,18.6,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,33.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+24,Female,27.8,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+71,Female,31.8,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+23,Female,25.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+30,Female,30.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+74,Female,19.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+60,Female,33.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+66,Female,24.4,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+55,Female,33.6,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+40,Female,31.6,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Breast Cancer
+62,Female,20.4,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+27,Female,20.5,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+64,Female,34.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+56,Female,31.8,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+71,Female,31.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+46,Female,23.4,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+29,Female,32.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+30,Female,31.6,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+38,Female,21.5,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+63,Female,19.2,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+64,Female,31.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+52,Female,25.9,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+27,Female,32.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,33.6,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+26,Female,32.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+66,Female,22.2,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+66,Female,18.6,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Breast Cancer
+61,Female,25.1,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+52,Female,29.6,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+69,Female,18.7,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+51,Female,21.8,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+81,Female,27.7,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+43,Female,30.3,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+84,Female,18.7,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+66,Female,34.8,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+73,Female,21.1,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+77,Female,31.0,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+45,Female,30.7,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+54,Female,24.4,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+43,Female,24.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+43,Female,22.3,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+31,Female,31.3,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+47,Female,26.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+33,Female,27.6,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+70,Female,33.6,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+42,Female,19.1,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+20,Female,25.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Breast Cancer
+29,Female,28.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+41,Female,33.2,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+30,Female,28.4,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+54,Female,31.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+84,Female,19.1,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+22,Female,28.6,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+34,Female,27.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+64,Female,34.2,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+33,Female,25.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+35,Female,28.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+81,Female,20.1,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+75,Female,30.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+23,Female,26.2,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+30,Female,20.2,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+65,Female,34.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+65,Female,27.3,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+74,Female,27.2,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+67,Female,33.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+45,Female,26.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+36,Female,34.6,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+79,Female,29.6,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+43,Female,23.7,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+22,Female,27.7,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+45,Female,34.4,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,32.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+84,Female,23.6,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+58,Female,33.1,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+65,Female,34.5,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+71,Female,32.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+35,Female,28.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+29,Female,23.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+20,Female,33.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+50,Female,26.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+50,Female,20.6,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+35,Female,21.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+66,Female,33.6,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+32,Female,34.5,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+62,Female,31.2,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+28,Female,30.1,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+36,Female,26.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+82,Female,27.2,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+36,Female,34.7,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+62,Female,31.5,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+58,Female,30.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+75,Female,33.5,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+65,Female,22.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+76,Female,21.7,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+53,Female,27.1,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+61,Female,31.7,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+57,Female,28.3,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+35,Female,19.9,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+26,Female,33.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+84,Female,29.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+31,Female,19.8,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+67,Female,27.3,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+50,Female,31.3,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+74,Female,21.6,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+58,Female,30.1,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+22,Female,28.8,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+82,Female,34.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+59,Female,33.9,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+35,Female,28.2,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Breast Cancer
+27,Female,22.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+26,Female,28.1,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+38,Female,23.4,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+53,Female,23.1,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+84,Female,28.3,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+49,Female,25.9,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+67,Female,26.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Breast Cancer
+68,Female,34.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+37,Female,32.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Breast Cancer
+63,Female,26.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Breast Cancer
+44,Female,21.7,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+58,Female,22.7,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+76,Female,24.3,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+48,Female,25.3,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+38,Male,26.7,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+71,Male,21.9,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+39,Male,18.7,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+60,Male,26.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+71,Female,19.7,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+62,Female,21.1,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+77,Male,26.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+76,Female,32.8,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+81,Male,30.9,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+52,Female,26.1,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+67,Female,24.8,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+72,Male,34.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+25,Male,26.3,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+63,Male,26.5,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+25,Male,34.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+79,Female,33.2,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+82,Female,33.0,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+66,Female,26.6,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+72,Male,21.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+31,Female,26.1,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+83,Female,26.0,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Female,34.5,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+64,Male,20.4,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+39,Female,22.0,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Male,23.1,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+64,Male,21.5,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+38,Female,34.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+78,Male,18.5,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+32,Female,29.8,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+76,Male,28.4,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+41,Male,22.5,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+34,Female,22.2,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+41,Male,25.9,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+29,Male,27.3,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+34,Female,27.0,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Leukemia
+76,Male,23.7,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+67,Female,29.1,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+40,Female,18.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+41,Female,28.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+29,Male,22.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+53,Male,33.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+57,Female,28.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+22,Male,32.5,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Female,30.3,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+73,Male,33.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+59,Female,20.1,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+43,Male,33.3,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+80,Female,22.5,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+35,Male,21.8,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+66,Female,21.2,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+69,Female,30.5,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+73,Male,24.1,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+27,Male,22.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+20,Male,27.1,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+35,Female,21.3,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+72,Male,34.1,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+55,Male,19.1,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+71,Female,22.9,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+56,Female,24.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+42,Female,23.7,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+76,Male,23.8,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+36,Female,25.5,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+29,Male,34.4,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+52,Male,27.3,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+75,Female,24.2,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+82,Female,20.8,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+74,Male,28.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+63,Female,34.7,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+58,Male,33.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+21,Female,18.6,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Leukemia
+82,Male,23.1,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+78,Female,33.7,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+55,Female,25.9,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+56,Male,22.2,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+42,Male,25.6,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Leukemia
+72,Female,31.4,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+30,Female,22.6,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+81,Female,33.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+36,Female,20.8,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+82,Female,21.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+36,Female,30.8,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+49,Female,24.8,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+60,Female,24.5,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+50,Female,33.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Male,33.7,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+22,Male,28.5,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+36,Male,25.9,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+52,Female,28.3,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+37,Male,31.5,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+68,Female,27.9,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+24,Female,34.3,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+22,Male,25.2,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+69,Female,29.9,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+22,Male,24.2,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+68,Male,25.3,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+57,Male,19.5,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+41,Female,18.7,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+59,Male,33.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+60,Male,21.9,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+58,Female,26.1,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+44,Male,34.7,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Female,26.7,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Male,24.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+45,Male,21.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+63,Male,24.3,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+33,Female,21.9,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+46,Male,25.6,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+64,Male,27.1,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Leukemia
+59,Female,28.0,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+44,Female,25.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+41,Male,28.8,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Female,21.1,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+80,Male,21.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+24,Female,19.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+37,Female,28.0,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Leukemia
+69,Male,21.5,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+31,Male,19.8,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+49,Female,32.1,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+34,Male,23.6,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Male,29.3,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+44,Female,23.5,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+21,Female,26.6,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+72,Female,27.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+80,Male,19.1,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+60,Female,30.9,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+43,Female,28.8,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+57,Male,31.7,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+33,Female,32.5,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+46,Female,29.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+55,Male,30.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+81,Female,31.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+35,Female,21.5,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+52,Female,23.9,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+34,Male,34.4,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+39,Male,24.3,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+56,Female,29.6,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+27,Female,31.8,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+47,Male,18.8,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+67,Female,31.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+27,Female,22.2,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+25,Female,21.3,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+51,Female,27.3,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+20,Male,33.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+49,Female,28.3,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+67,Male,27.9,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+20,Male,30.3,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+73,Female,24.5,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+53,Male,19.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+42,Female,22.0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+79,Male,19.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+30,Female,24.2,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Leukemia
+73,Male,25.8,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+83,Female,33.7,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+35,Male,24.4,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Female,24.1,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+38,Female,30.4,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+73,Male,31.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+54,Male,23.8,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+32,Male,34.3,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+74,Male,32.9,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+32,Female,28.5,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Male,32.9,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+63,Male,19.8,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+73,Female,22.2,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+63,Female,24.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+38,Male,20.0,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+56,Female,24.7,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+36,Female,20.6,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+64,Female,22.9,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+69,Female,20.0,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+30,Male,27.8,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+81,Female,27.4,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+68,Male,27.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+23,Male,32.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+24,Male,24.8,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+25,Male,29.8,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+80,Male,30.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+31,Male,21.9,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+35,Female,28.9,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+71,Male,31.5,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+48,Male,23.2,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+75,Male,20.1,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+41,Male,29.1,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+34,Male,26.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+52,Male,29.0,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+57,Female,33.3,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+76,Male,25.3,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+68,Female,29.4,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+71,Female,32.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+73,Male,23.3,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+71,Male,20.3,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+33,Male,25.7,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+67,Male,31.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+77,Male,20.8,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+44,Female,26.0,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+69,Female,31.7,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+59,Male,27.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+66,Female,23.5,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+70,Female,23.3,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+41,Female,33.5,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+51,Male,30.2,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+38,Male,30.9,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+84,Female,19.7,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+49,Male,26.8,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+54,Male,23.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+77,Female,20.6,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+79,Female,34.4,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Leukemia
+72,Female,34.2,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Male,24.0,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+32,Female,25.3,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+77,Male,32.5,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+49,Male,21.3,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+39,Male,20.3,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+38,Male,29.5,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+81,Male,34.9,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+73,Male,32.6,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Leukemia
+47,Female,30.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+43,Female,20.2,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+53,Male,19.8,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+31,Female,26.8,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+69,Female,21.4,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+64,Female,23.0,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+26,Female,32.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+77,Male,22.5,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+35,Female,19.9,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+70,Male,19.1,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+34,Female,29.2,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+79,Male,34.7,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+48,Female,23.5,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+62,Male,29.3,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+68,Male,31.1,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+56,Female,33.9,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+37,Male,24.1,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+73,Female,24.3,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+22,Female,28.0,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+69,Female,34.1,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+27,Male,19.2,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+59,Female,19.0,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+63,Female,25.9,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+74,Male,33.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Male,30.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+74,Female,22.8,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+56,Male,19.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+44,Male,24.9,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+58,Male,34.3,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+73,Male,18.6,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+67,Female,29.3,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+58,Female,22.0,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+44,Female,30.4,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+43,Male,21.2,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+25,Male,31.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+59,Female,23.5,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+50,Female,20.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+44,Male,30.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+49,Female,30.7,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+77,Male,22.4,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+20,Male,27.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+73,Female,29.3,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+66,Female,29.6,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+81,Male,31.7,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+35,Male,26.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+82,Male,27.7,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+36,Female,27.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+27,Female,30.7,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Leukemia
+73,Female,26.5,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Female,22.1,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+78,Male,31.5,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+25,Male,33.6,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+48,Female,25.2,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Leukemia
+34,Female,22.5,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+63,Female,22.1,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+53,Male,21.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+52,Male,34.0,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+37,Female,28.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+48,Male,27.9,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Leukemia
+35,Male,18.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+79,Male,26.4,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+35,Male,32.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+63,Female,23.9,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Female,31.1,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+50,Male,28.7,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+43,Female,30.1,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+56,Male,23.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+69,Female,27.8,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+79,Female,22.1,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Male,23.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+33,Male,25.7,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+43,Male,34.3,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+58,Female,22.0,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+68,Male,27.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+38,Male,33.1,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+84,Female,30.6,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+33,Female,34.7,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+23,Female,26.4,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+84,Female,19.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+64,Male,33.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+58,Female,26.1,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Female,19.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Male,33.3,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Leukemia
+31,Female,34.1,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+22,Female,21.4,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+79,Female,19.9,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+70,Male,31.5,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+72,Female,28.9,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+20,Male,31.2,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+62,Male,31.7,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+72,Male,30.1,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+57,Female,31.6,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+41,Female,29.5,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+64,Male,23.1,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+26,Male,26.6,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+32,Male,24.8,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+75,Female,22.3,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+23,Female,26.2,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+33,Female,21.8,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+82,Male,31.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+39,Female,24.7,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+49,Female,31.6,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+43,Male,32.3,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+44,Male,19.1,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+32,Male,20.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+62,Male,35.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+43,Male,31.5,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+39,Male,33.6,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+71,Male,30.4,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+51,Male,20.4,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Leukemia
+73,Male,20.9,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Leukemia
+62,Female,27.8,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+82,Male,24.1,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+54,Male,33.5,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+59,Female,21.6,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+36,Female,18.8,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Male,34.7,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+53,Female,21.2,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+81,Male,22.6,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+42,Male,18.8,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+30,Male,32.3,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+79,Female,20.8,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+68,Female,30.4,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+78,Male,20.3,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+84,Female,24.5,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+59,Female,30.7,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+24,Male,19.0,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+49,Female,20.0,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+64,Male,33.1,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+36,Female,30.3,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+20,Male,24.0,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+65,Female,19.9,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+72,Male,34.0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+25,Male,20.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+57,Male,26.3,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+39,Female,27.0,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+61,Male,19.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+52,Male,28.0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Leukemia
+78,Female,30.6,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+22,Male,33.4,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+40,Male,18.7,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+37,Female,25.7,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+78,Male,29.1,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+57,Female,21.2,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+71,Male,28.1,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+63,Male,28.2,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+79,Male,19.0,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+46,Male,25.4,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+24,Female,19.8,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+60,Male,34.0,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+84,Male,23.6,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+47,Male,23.9,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+73,Male,26.8,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+57,Male,19.8,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Male,31.0,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Leukemia
+78,Female,26.1,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+20,Male,27.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+68,Female,34.6,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+48,Female,25.0,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+28,Female,21.2,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+79,Female,25.2,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+45,Male,23.4,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+40,Female,27.7,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+63,Female,22.7,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+54,Female,25.9,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+43,Female,34.0,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+55,Male,34.4,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+34,Female,23.3,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+66,Female,24.1,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+76,Female,26.0,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+44,Male,30.8,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+23,Male,22.6,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+30,Male,19.3,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+55,Female,24.4,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Leukemia
+28,Male,22.8,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Male,33.8,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+74,Female,26.3,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+73,Female,27.3,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Leukemia
+81,Female,29.6,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Leukemia
+61,Female,29.0,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Leukemia
+84,Female,34.3,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+29,Female,28.9,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+59,Male,25.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+60,Male,20.1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+66,Female,33.4,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+45,Male,29.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+64,Male,30.5,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+34,Male,23.7,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+75,Male,29.5,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+55,Male,21.2,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+68,Male,19.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+64,Male,34.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+72,Male,19.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+36,Female,19.4,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+58,Male,27.4,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+34,Male,21.3,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+64,Female,31.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+74,Female,29.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+38,Male,25.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+62,Male,27.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+32,Female,20.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+66,Male,30.6,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+79,Female,29.3,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+65,Female,21.2,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+26,Male,24.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+45,Female,33.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+41,Female,21.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+71,Male,34.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+43,Male,26.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+75,Female,33.6,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+60,Male,31.4,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+23,Female,27.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+55,Female,19.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+76,Male,25.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+62,Male,27.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+38,Female,20.4,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+35,Female,34.6,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+57,Female,30.8,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+54,Female,23.6,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+29,Female,24.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+78,Male,30.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+65,Male,26.7,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+31,Male,26.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+20,Female,31.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+54,Male,20.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+82,Male,25.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+77,Female,32.5,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+36,Female,29.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+63,Male,31.4,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+38,Male,33.2,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No Cancer
+54,Male,27.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+41,Male,25.9,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+37,Male,19.1,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+40,Male,24.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+20,Female,20.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+22,Male,23.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+69,Male,30.8,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+62,Female,28.4,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+42,Male,34.2,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+57,Female,24.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+40,Male,21.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+34,Female,32.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+80,Female,33.1,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+29,Female,24.1,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+53,Male,26.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+74,Male,30.5,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+71,Male,20.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+32,Female,21.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+20,Male,25.4,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+59,Female,28.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+37,Male,23.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+34,Female,24.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+72,Female,26.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+84,Female,23.8,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+65,Female,26.5,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+40,Female,30.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+45,Female,32.3,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+43,Female,24.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+28,Male,25.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+45,Female,25.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+80,Female,33.7,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+69,Female,24.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+44,Male,33.8,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+71,Male,23.6,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+46,Male,32.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+31,Male,31.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+75,Female,23.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+47,Female,31.7,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+37,Male,33.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+34,Female,34.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+82,Female,22.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+63,Female,33.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+57,Male,19.2,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+33,Female,25.5,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+30,Male,25.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+30,Female,20.7,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+24,Male,28.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+35,Male,32.4,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+50,Female,27.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+24,Female,20.4,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+76,Male,25.2,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+34,Female,28.3,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No Cancer
+68,Female,28.1,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+46,Female,27.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+59,Male,20.9,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+25,Male,29.8,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+76,Male,32.8,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+66,Female,31.7,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+70,Female,22.6,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+73,Female,27.5,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+27,Male,29.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+38,Female,22.3,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+22,Male,31.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+26,Female,31.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+76,Male,19.6,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+23,Female,23.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+33,Female,21.8,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+50,Male,31.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+76,Female,21.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+84,Male,33.8,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+31,Male,21.0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+60,Female,19.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+20,Male,23.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+30,Male,25.6,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+35,Male,21.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+61,Female,26.4,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+25,Male,25.5,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+37,Female,19.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+77,Female,20.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+62,Female,34.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+20,Female,24.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+80,Female,27.6,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+65,Female,34.9,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+82,Female,31.4,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+21,Male,24.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+79,Female,26.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+70,Male,18.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+80,Male,31.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+72,Male,24.4,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+45,Female,23.1,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+63,Female,20.2,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+39,Male,28.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+80,Male,32.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+47,Male,18.6,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+63,Male,27.8,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+38,Male,33.4,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+60,Female,25.9,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+75,Male,27.7,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+36,Female,30.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+31,Female,33.4,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+52,Female,25.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+35,Female,24.5,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+43,Female,25.2,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+81,Female,28.1,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+58,Male,34.7,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+79,Female,19.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+37,Female,23.2,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+69,Female,22.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+43,Male,32.4,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+46,Female,27.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+66,Female,29.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+35,Male,27.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+79,Female,24.9,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No Cancer
+40,Female,23.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+45,Male,33.6,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+72,Male,20.2,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No Cancer
+26,Female,24.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+25,Male,25.2,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+61,Female,20.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+33,Male,29.5,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+49,Female,18.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+66,Male,19.5,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+21,Female,30.0,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+58,Female,24.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+76,Male,18.9,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+70,Female,19.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+72,Female,32.1,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+43,Female,32.3,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+23,Female,26.9,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+32,Male,24.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+56,Female,26.7,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+49,Male,27.6,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+40,Male,31.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+63,Female,29.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+77,Female,34.5,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+22,Female,22.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+36,Male,33.2,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+84,Male,20.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+47,Female,31.6,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+20,Male,31.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+72,Female,19.1,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+64,Male,32.0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+66,Female,34.6,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+21,Male,27.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+51,Male,25.2,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+77,Male,25.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+25,Male,30.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+24,Male,32.1,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+72,Male,29.7,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+27,Male,27.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+42,Male,21.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+36,Male,21.5,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+41,Male,34.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+42,Female,31.5,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+45,Male,27.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+66,Female,28.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+48,Female,22.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+30,Male,33.0,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+53,Female,28.2,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+60,Female,31.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+43,Male,23.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+42,Female,30.2,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+22,Female,30.0,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+68,Male,30.6,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+84,Male,25.6,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+39,Male,25.5,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+47,Male,23.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+70,Male,19.6,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+53,Male,33.5,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+72,Female,32.0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+79,Male,21.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+22,Female,24.1,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+72,Female,21.0,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+83,Female,29.8,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+29,Female,26.9,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+20,Male,21.5,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+33,Female,27.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+51,Female,30.7,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+38,Female,31.4,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+55,Female,21.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+48,Female,21.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+43,Female,26.2,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+20,Female,28.2,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+60,Male,23.1,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+76,Male,27.4,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+25,Female,33.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+42,Male,28.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+77,Female,25.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+64,Male,29.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+71,Female,21.5,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+59,Male,25.0,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+65,Male,21.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+42,Male,22.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+79,Male,34.3,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+82,Female,31.7,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+58,Female,19.9,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+61,Female,28.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+25,Male,18.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+51,Male,28.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+33,Female,29.0,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+34,Female,32.0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+71,Female,24.0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+70,Male,18.8,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+65,Female,28.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+84,Male,30.0,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+22,Female,22.0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+39,Male,28.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+63,Male,28.6,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+28,Male,33.2,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+51,Female,28.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+36,Male,24.5,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+59,Male,25.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+63,Male,29.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+24,Male,32.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+21,Female,33.4,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+45,Male,21.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+24,Male,22.7,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+38,Female,27.5,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+27,Female,18.5,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+67,Female,23.2,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+73,Male,27.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+73,Male,24.4,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+53,Male,34.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+23,Male,21.4,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+81,Male,18.5,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+82,Female,21.3,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+35,Female,22.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+84,Female,30.2,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+58,Female,22.3,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+76,Female,27.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+27,Male,31.3,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+52,Male,24.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+65,Female,28.0,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+50,Female,33.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+36,Female,31.5,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+26,Female,18.5,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+40,Female,25.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+64,Female,27.0,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+25,Female,26.7,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+35,Male,28.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+43,Female,34.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+70,Male,22.4,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+78,Male,28.1,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+23,Female,29.3,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+81,Female,22.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+54,Male,25.3,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+78,Male,22.7,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+30,Male,27.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+38,Female,32.0,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+35,Female,34.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+36,Male,18.9,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+38,Male,28.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+48,Female,31.8,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+24,Female,18.6,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+28,Female,19.1,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+78,Male,23.1,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+53,Male,23.4,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+65,Female,27.1,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+30,Male,28.1,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+30,Male,34.8,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+56,Female,31.9,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+79,Male,20.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+71,Female,34.6,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+77,Male,28.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+45,Male,33.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+83,Male,19.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+56,Male,31.4,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+28,Female,22.0,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+40,Female,32.5,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+82,Female,25.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+50,Male,20.8,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+84,Female,30.0,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+65,Male,29.8,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+77,Male,30.5,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+43,Male,21.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+34,Female,28.4,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+75,Male,32.3,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+52,Female,30.6,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+41,Female,28.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+30,Female,35.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+42,Male,28.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+75,Male,33.3,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+79,Female,21.7,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+52,Male,28.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+60,Male,32.3,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+48,Male,20.4,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+52,Female,32.3,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+65,Female,24.9,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+38,Female,19.8,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+48,Male,22.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+73,Female,25.9,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+31,Female,25.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+33,Male,28.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+28,Female,29.5,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+56,Female,32.3,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+74,Male,34.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+31,Female,24.4,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+60,Female,19.2,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+49,Male,22.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+47,Female,26.2,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+64,Male,20.4,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+58,Male,32.7,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+30,Male,29.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+40,Male,31.2,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+76,Male,19.5,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+74,Male,26.7,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+72,Male,18.6,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+63,Female,23.0,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+41,Male,34.7,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+84,Female,22.4,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No Cancer
+57,Male,29.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+67,Female,32.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+40,Male,30.4,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+60,Female,19.4,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+73,Female,21.6,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+46,Female,31.7,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+84,Male,30.1,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+68,Male,28.9,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+23,Male,34.8,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+33,Male,20.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+44,Male,33.2,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+74,Female,28.6,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+60,Female,31.5,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+35,Male,28.6,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+28,Female,32.9,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+62,Female,25.5,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+71,Male,20.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+25,Male,34.0,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+46,Male,34.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+78,Female,32.6,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+56,Male,19.4,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+78,Male,23.2,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+35,Female,30.2,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+57,Female,22.7,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+83,Male,29.3,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No Cancer
+54,Female,31.7,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+42,Male,33.5,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+22,Female,28.2,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+27,Female,28.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+73,Female,29.5,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+70,Female,26.1,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+61,Female,30.8,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+55,Male,29.2,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+53,Female,24.4,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+27,Female,32.9,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+34,Male,23.2,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+47,Female,27.2,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No Cancer
+24,Female,19.5,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+71,Female,32.6,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
+80,Female,29.9,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No Cancer
